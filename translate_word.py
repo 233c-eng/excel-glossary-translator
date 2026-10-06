@@ -14,7 +14,7 @@ from zhipuai import ZhipuAI # 智谱 AI 官方 SDK
 # ========== 第 2 步：填写你自己的 API Key ==========
 # 注意：千万不要把这个真实的 Key 上传到 GitHub！
 # 在本地测试时，把下面的字符串换成你新申请的 API Key
-API_KEY = "339a7e6674224771808b087862db1e75.B47GudQivNc61iNy" 
+API_KEY = "你的keys" 
 
 # ========== 第 3 步：准备工作（路径和文件名） ==========
 desktop_path = os.path.join(os.path.expanduser("~"), "Desktop")
