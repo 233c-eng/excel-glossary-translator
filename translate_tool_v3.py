@@ -19,7 +19,7 @@ from zhipuai import ZhipuAI
 
 # ========== 1. 配置区 ==========
 # ⚠️ 测试时填你自己的真实 Key，上传 GitHub 前务必换回来
-API_KEY = "db922035588149c5b143e77a7c47d6ad.qPgWRxqxPpOtsWKM"
+API_KEY = "你的keys"
 MODEL_NAME = "glm-4-flash"
 
 desktop_path = os.path.join(os.path.expanduser("~"), "Desktop")
